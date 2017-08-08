@@ -1,1 +1,1 @@
-# Diagnostice-Exercis
+# Hello Github!
